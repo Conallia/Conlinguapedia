@@ -1,2 +1,2 @@
 # Conlinguapedia
-A resource for conlangers
+A resource for conlangers.
