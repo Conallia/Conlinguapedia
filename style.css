@@ -1,0 +1,40 @@
+* {
+	font-family: sans-serif;
+	}
+
+.topnav {
+	background-color: #452d85;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+}
+
+body {
+	margin-top: 60px;
+	background-color: #f2d1ac;
+}
+
+.topnav a {
+	float: left;
+	padding: 10px;
+	text-decoration: none;
+	color: white;
+}
+
+#active {
+	background-color: white;
+	color: black;
+}
+
+.textbox {
+	width: auto;
+	margin: 10px;
+	padding: 10px;
+	background-color: #fff7e8;
+}
+
+h2, h3, h4, h5, h6 {
+	color: #541811;
+	font-family: serif;
+}
