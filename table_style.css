@@ -1,0 +1,42 @@
+.tg {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+.tg td {
+	border-color: #70452a;
+	border-style: solid;
+	border-width: 1px;
+	font-size: 14px;
+	color: #70452a;
+	overflow: hidden;
+  	padding: 10px 5px;
+	word-break: normal;
+}
+
+.tg th {
+	border-color: #70452a;
+	border-style: solid;
+	border-width: 1px;
+	font-size: 14px;
+  	font-weight: normal;
+	overflow: hidden;
+	padding: 10px 5px;
+	word-break: normal;
+}
+
+.tg .tg-baqh {
+	text-align: center;
+	vertical-align: top;
+	color: #70452a;
+}
+
+.tg .tg-lqy6 {
+	text-align:right;
+	vertical-align:top;
+}
+
+.tg .tg-0lax {
+	text-align:left;
+	vertical-align:top;
+}
